@@ -1,31 +1,33 @@
-# Hello, welcome to my GitHub 👋
+# Hello, welcome to my GitHub! 👋
 
-My name is Marcelo Neris and I'm transitioning to a career in tech. Currently studying **System Analysis and Development** at **PUC-PR**.
+My name is Marcelo Aparecido Neris, an economist passionate about technology, currently transitioning to Data Science and Backend development. I'm studying **Data Science** at **EBAC**.
 
 ---
 
 ## About me
-🎓 Background in Economics  
-💻 Exploring front-end and web development  
-🎯 Career goal: Become a proficient web developer!  
-🧩 Interests: Gaming, coding, and solving puzzles  
+🎓 Background: Degree in Economics  
+📘 Currently learning: Data Science and Backend development  
+🎯 Career goal: Work as a Data Scientist or Backend Developer  
+🔍 Interests: Data analysis, predictive modeling, and solving complex problems  
 
 ---
 
 ## Techs
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="SQL" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/>
 
 ---
 
 ## Stats
-![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNeris&show_icons=true&theme=dark)
+![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neris99&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNeris&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neris99&layout=compact&theme=dark)
 
 ---
 
 ## Connect with me 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-neris)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcelo-neris)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neris99/)
+
+
