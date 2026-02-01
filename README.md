@@ -1,31 +1,58 @@
 # Hello, welcome to my GitHub! 👋
 
-My name is Marcelo Aparecido Neris, an economist passionate about technology, currently transitioning to Data Science and Backend development. I'm studying **Data Science** at **EBAC**.
+I'm **Marcelo Aparecido Neris**, an economist with 10+ years of experience in the financial sector, currently transitioning into **Data Science and Backend Development**.  
+I’m passionate about using data and technology to solve real-world problems and support better decision-making.
 
 ---
 
-## About me
-🎓 Background: Degree in Economics  
-📘 Currently learning: Data Science and Backend development  
-🎯 Career goal: Work as a Data Scientist or Backend Developer  
-🔍 Interests: Data analysis, predictive modeling, and solving complex problems  
+## 👨‍💻 About Me
+
+🎓 **Background:** Bachelor’s degree in Economics  
+📊 **Currently studying:** Data Science at **EBAC**  
+💼 **Professional experience:** 10+ years in banking and financial institutions  
+🎯 **Career focus:** Data Analyst | Data Scientist | Backend Developer  
+🧠 **Interests:** Data analysis, machine learning, backend systems, automation, and business intelligence  
 
 ---
 
-## Techs and Stats
+## 🛠️ Tech Stack
 
-| Techs | Stats |
-|-------|-------|
-| <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/> <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="SQL" width="40"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/> | ![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neris99&show_icons=true&theme=dark) |
+**Programming & Data**
+- Python  
+- SQL  
+- Pandas | NumPy  
+- Data Cleaning & Exploratory Data Analysis (EDA)
+
+**Tools & Environment**
+- Jupyter Notebook  
+- VS Code | PyCharm  
+- Git & GitHub  
+
+**Currently Learning**
+- Machine Learning  
+- Backend fundamentals  
+- APIs and data-driven applications  
 
 ---
 
-| Most Used Languages |
-|----------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neris99&layout=compact&theme=dark) |
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neris99&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neris99&layout=compact&theme=dark)
+
+</div>
 
 ---
 
-## Connect with me 🌐
+## 🌐 Connect With Me
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neris99/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neris99)
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey in Data Science and Backend Development!
 
